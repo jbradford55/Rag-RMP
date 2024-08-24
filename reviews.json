@@ -1,0 +1,130 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Zhao",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Dr. Zhao is an excellent professor who really knows her stuff. Her lectures are engaging and she's always willing to help students during office hours."
+      },
+      {
+        "professor": "Professor Michael Hernandez",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Professor Hernandez is knowledgeable, but his lectures can be a bit dry at times. The labs are interesting, but the grading on assignments and exams is quite harsh."
+      },
+      {
+        "professor": "Dr. Olivia Nguyen",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Nguyen is by far one of the best professors I've had. Her passion for the subject is contagious, and she does a great job of making the material interesting and relevant. I highly recommend taking any of her courses."
+      },
+      {
+        "professor": "Professor David Lee",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "I would not recommend taking a course with Professor Lee. His lectures are disorganized, and he seems more interested in his research than teaching. The exams are also extremely challenging and not well-aligned with the course material."
+      },
+      {
+        "professor": "Dr. Samantha Patel",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Patel is a knowledgeable and engaging professor. Her lectures are clear and she is always happy to answer questions. The workload is manageable, and she provides helpful feedback on assignments."
+      },
+      {
+        "professor": "Dr. Isabella Gomez",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Gomez is an outstanding professor who truly cares about her students and the environment. Her lectures are engaging and she encourages active discussion. The course workload is challenging but manageable, and I learned a great deal."
+      },
+      {
+        "professor": "Professor Ahmed Khalil",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "I would not recommend taking a course with Professor Khalil. His lectures are confusing and he seems more interested in his research than teaching. The exams are extremely difficult and not well-aligned with the course material."
+      },
+      {
+        "professor": "Dr. Sophia Rossi",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Dr. Rossi is a passionate and knowledgeable professor. Her lectures are engaging and she does a great job of connecting the material to contemporary art and culture. The course workload is reasonable, and she provides useful feedback on assignments."
+      },
+      {
+        "professor": "Professor Liam Nguyen",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Professor Nguyen is knowledgeable about the subject matter, but his lectures can be dry and monotonous at times. The grading on essays and exams is also quite subjective. However, he is generally approachable and willing to help students during office hours."
+      },
+      {
+        "professor": "Dr. Ava Diaz",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Diaz is an exceptional professor who really cares about her students' success. Her lectures are clear and engaging, and she does a great job of relating the material to real-world applications. The course workload is challenging but manageable, and she provides excellent feedback and support."
+      },
+      {
+        "professor": "Professor Ethan Gonzalez",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Professor Gonzalez is a knowledgeable and engaging lecturer. His classes are thought-provoking and he encourages active discussion. The grading is fair, and he is always available to provide additional support during office hours."
+      },
+      {
+        "professor": "Dr. Mia Kim",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Dr. Kim is a brilliant and insightful professor. Her lectures are intellectually stimulating, and she does a great job of challenging students to think critically. The course workload is manageable, and she provides detailed feedback on assignments."
+      },
+      {
+        "professor": "Professor Luca Ricci",
+        "subject": "Italian",
+        "stars": 3,
+        "review": "Professor Ricci is knowledgeable about the Italian language and culture, but his teaching style can be a bit rigid at times. The class is primarily focused on grammar and vocabulary, with less emphasis on conversational skills. However, he is generally fair and approachable."
+      },
+      {
+        "professor": "Dr. Jasmine Huang",
+        "subject": "Entrepreneurship",
+        "stars": 5,
+        "review": "Dr. Huang is an outstanding professor who truly understands the entrepreneurial mindset. Her lectures are engaging and practical, and she does an excellent job of connecting the course material to real-world entrepreneurial challenges. The workload is demanding but worthwhile, and she provides invaluable mentorship and support."
+      },
+      {
+        "professor": "Professor Aiden Tanaka",
+        "subject": "Marketing",
+        "stars": 4,
+        "review": "Professor Tanaka is a knowledgeable and experienced marketing professional. His lectures are informative and he does a good job of incorporating real-world case studies. The course workload is manageable, and he provides useful feedback on assignments."
+      },
+      {
+        "professor": "Dr. Isabella Moretti",
+        "subject": "Accounting",
+        "stars": 3,
+        "review": "Dr. Moretti is a competent professor, but her lectures can be a bit dry and monotonous at times. The course material is challenging, and the grading on exams and assignments can be quite strict. However, she is generally approachable and willing to provide additional support during office hours."
+      },
+      {
+        "professor": "Professor Liam Chen",
+        "subject": "Computer Engineering",
+        "stars": 4,
+        "review": "Professor Chen is a knowledgeable and engaging lecturer. His classes are hands-on and focus on practical applications of computer engineering principles. The workload is demanding, but he provides clear guidance and support. I would recommend this course to anyone interested in the field."
+      },
+      {
+        "professor": "Dr. Sophia Patel",
+        "subject": "Public Health",
+        "stars": 5,
+        "review": "Dr. Patel is an exceptional professor who is truly passionate about public health. Her lectures are engaging and she does an excellent job of connecting the course material to real-world public health challenges. The workload is challenging but worthwhile, and she provides invaluable mentorship and support."
+      },
+      {
+        "professor": "Professor Ethan Rodriguez",
+        "subject": "Film Studies",
+        "stars": 4,
+        "review": "Professor Rodriguez is a knowledgeable and enthusiastic lecturer. His classes are thought-provoking and he does a great job of analyzing films from diverse cultural perspectives. The workload is manageable, and he provides detailed feedback on assignments."
+      },
+      {
+        "professor": "Dr. Mia Gomez",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Dr. Gomez is a brilliant and engaging professor. Her lectures are clear and she does an excellent job of explaining complex neuroscience concepts. The course workload is challenging but rewarding, and she provides valuable mentorship and support."
+      },
+      {
+        "professor": "Professor Dummy Dummy",
+        "subject": "Physical Education",
+        "stars": 4,
+        "review": "Great professor with lots of hands on learning."
+      }
+    ]
+  }
