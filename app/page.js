@@ -68,7 +68,7 @@ export default function Home() {
 
     recognition.onresult = (event) => {
       const transcript = event.results[0][0].transcript;
-      setMessage(transcript); // Set the recognized text as the input message
+      setMessage(transcript); // Set recognized text as the input message
     };
 
     recognition.start();
