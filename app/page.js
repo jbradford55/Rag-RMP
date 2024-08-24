@@ -105,18 +105,23 @@ export default function Home() {
         background: "linear-gradient(to right, #1e3c72, #2a5298)",
         fontFamily: "'Roboto', sans-serif",
         color: "#fff",
+        padding: "20px", // Add padding to ensure content doesn’t touch screen edges
+        boxSizing: "border-box",
       }}
     >
       <Box
-        width="600px"
-        height="750px"
+        width="100%"
+        maxWidth="600px"  // Constrain max width for responsiveness
+        height="100%"
+        maxHeight="90vh"  // Set max height relative to viewport height
         borderRadius="12px"
         boxShadow="0 4px 12px rgba(0, 0, 0, 0.1)"
         bgcolor="#ffffff"
         p={2}
         sx={{
           backdropFilter: "blur(10px)",
-          background: "rgba(255, 255, 255, 0.8)"
+          background: "rgba(255, 255, 255, 0.8)",
+          overflow: "hidden", // Prevent overflow of content
         }}
       >
         <Stack
