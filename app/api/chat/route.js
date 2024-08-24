@@ -75,6 +75,7 @@ export async function POST(req) {
                         }
                     }
                 } catch (err) {
+                    console.error("Error while streaming response:", err); // Log streaming error
                     controller.error(err);
                 } finally {
                     controller.close();
@@ -84,7 +85,7 @@ export async function POST(req) {
 
         return new NextResponse(stream);
     } catch (error) {
-        console.error("Error occurred:", error);
-        return new NextResponse("Internal Server Error", { status: 500 });
+        console.error("Error occurred during the request:", error); // Log the error details
+        return new NextResponse(`Internal Server Error: ${error.message}`, { status: 500 });
     }
 }
